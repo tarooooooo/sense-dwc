@@ -36,5 +36,5 @@ https://docs.google.com/spreadsheets/d/17WRFe6Xl-fAeV8epxicCCdvP44WIDrPCtJJz4uES
 - JSライブラリ：jQuery
 - IDE：Cloud9
 
-##作者
+## 作者
 -　前田龍太郎
