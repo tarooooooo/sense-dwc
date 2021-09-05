@@ -29,9 +29,9 @@ SNSが普及し、インフルエンサーに限らず一般の方のオシャ�
 コーディネートを依頼したい時。
 
 ## 設計書
-ER図：https://drive.google.com/file/d/1hrkCWbtHyM6OocajKEyKpENIDYj0Xk9-/view?usp=sharing
-テーブル定義書:
-アプリケーション詳細設計:
+- ER図：https://drive.google.com/file/d/1hrkCWbtHyM6OocajKEyKpENIDYj0Xk9-/view?usp=sharing
+- テーブル定義書:https://docs.google.com/spreadsheets/d/1MWMgwSVccpMDkFX9_0NM_U_i146EX_7K/edit?usp=sharing&ouid=112847534265417995265&rtpof=true&sd=true
+- アプリケーション詳細設計:https://docs.google.com/spreadsheets/d/1Na3EZz2QuB464cdEE2FlRXy-Uvc8wb2YlYlxVbxrzeE/edit?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/17WRFe6Xl-fAeV8epxicCCdvP44WIDrPCtJJz4uESAv8/edit?usp=sharing
